@@ -1,7 +1,7 @@
 listArr = [1,2,3]
 
 for i in listArr:
-    print(f"xxxxz {i}")
+    print(f"xxxx---- {i}")
 
 i = 0;
 while (listArr[i]):
